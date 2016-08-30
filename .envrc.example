@@ -1,0 +1,5 @@
+export clientId=
+export clientSecret=
+export port=4567
+export SWAGGER_URL=http://yourhost/api/v1/swagger.json
+export AUTH_TOKEN=****
