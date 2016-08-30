@@ -49,5 +49,7 @@ After bot server is launched, you have to enable integration This Bot App via `h
 
 ## References
 
+- [STF | Smartphone Test Farm](http://openstf.io/)
+- https://github.com/openstf/adbkit
 - https://github.com/howdyai/botkit
 - https://github.com/henteko/slack_message_button_test
